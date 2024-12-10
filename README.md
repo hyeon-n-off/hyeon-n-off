@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="PSq6DbDlRSvangukeR2VKXHXPGCn4hhMZzYZRfIe7F4" />
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Hyeon-n-off's%20GITHUB&fontSize=50&fontAlign=68&fontAlignY=36"/>
     </div>
