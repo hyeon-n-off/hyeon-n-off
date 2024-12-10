@@ -26,3 +26,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kiljh3572)](https://solved.ac/kiljh3572)
+
+<meta name="google-site-verification" content="googlea48b0fb5a205814f.html" />
