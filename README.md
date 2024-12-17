@@ -23,6 +23,3 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=kiljh3572)](https://solved.ac/kiljh3572)
